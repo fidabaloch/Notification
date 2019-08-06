@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "599902445508",
+    "firebase_url": "https://notification-d1151.firebaseio.com",
+    "project_id": "notification-d1151",
+    "storage_bucket": "notification-d1151.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599902445508:android:b883fc56f560c23e",
+        "android_client_info": {
+          "package_name": "com.duratechsol.fidaahmed.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599902445508-5mqohl6kt23ik8hll46ka7e0u2feei2f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.duratechsol.fidaahmed.notification",
+            "certificate_hash": "893b55ab55e38c1d3edc07651cfcd542e5ccb94f"
+          }
+        },
+        {
+          "client_id": "599902445508-lnd5q1tjmkgrmihf0u99fnhasnt9sgoe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZouxCD29Jvp8xzZaPzE87IF-DTWWOHQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599902445508-lnd5q1tjmkgrmihf0u99fnhasnt9sgoe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
