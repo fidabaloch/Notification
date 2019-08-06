@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "599902445508-siqs5jruedd4da5kfkmgdn4bc10qov1i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.duratechsol.fidaahmed.notification",
+            "certificate_hash": "dc624fc2b2c2e4a114d9bd6747bed9a85228bb22"
+          }
+        },
+        {
           "client_id": "599902445508-5mqohl6kt23ik8hll46ka7e0u2feei2f.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
